@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://dedicatedcloud.github.io/OER/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://dedicatedcloud.github.io/OER/document.epub)
+* [PDF](https://dedicatedcloud.github.io/OER/document.pdf)
+* [HTML](https://dedicatedcloud.github.io/OER/document.html)
 
 # Use this template
 
